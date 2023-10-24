@@ -25,10 +25,6 @@ for(int i = 0; i < num; i++)
     {
         max = array[i];
     } 
-    //else
-   // {
-    //   i++;
-    //}
 } 
 sum = max-min;
 Console.WriteLine();
